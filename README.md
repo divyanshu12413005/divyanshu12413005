@@ -4,7 +4,7 @@ BTech student at IIIT Sonepat, learning software development through Java, C, Py
 
 I like building practical projects while strengthening my fundamentals in data structures, programming logic, and app development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-divyaimg.tiny.site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyaimg.tiny.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://divyanshu12413005.github.io/Portfolio-Website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/)
 [![GitHub](https://img.shields.io/badge/GitHub-divyanshu12413005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu12413005)
 
@@ -69,6 +69,6 @@ I like building practical projects while strengthening my fundamentals in data s
 
 ## Connect With Me
 
-- Portfolio: [divyaimg.tiny.site](https://divyaimg.tiny.site/)
+- Portfolio: [divyanshu12413005.github.io/Portfolio-Website](https://divyanshu12413005.github.io/Portfolio-Website/)
 - LinkedIn: [Divyanshu Singh Chauhan](https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/)
 - GitHub: [divyanshu12413005](https://github.com/divyanshu12413005)
