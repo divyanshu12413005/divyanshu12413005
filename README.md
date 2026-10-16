@@ -45,11 +45,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Foundations-blue?style=flat)
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-Exploring-6B46C1?style=flat)
 
@@ -69,7 +65,10 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Android apps with Kotlin, Android Studio, XML layouts, and Gradle
 - Exploring Flutter for cross-platform app development
 - Web development with HTML, CSS, JavaScript, React, and responsive UI
-- Completed my core Python Machine Learning library learning track: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras, and PyTorch
+- Completed foundational Python data analysis and visualization practice with NumPy, Pandas, Matplotlib, Seaborn, and Plotly
+- Practiced NumPy array creation, indexing, broadcasting, reshaping, statistics, and array operations
+- Practiced Pandas Series and DataFrames, filtering, grouping, joining, pivot tables, dates, and vectorized string operations
+- Built visualizations including bar, scatter, histogram, categorical, distribution, relational, matrix, and subplot charts
 - Exploring quantum machine learning and diabetic retinopathy screening through QuantumNet
 - Clean GitHub repositories with better README files and project documentation
 
@@ -82,7 +81,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 | [QuantumNet-DR-Screening](https://github.com/divyanshu12413005/quantumnet-dr-screening) | Exploring QuantumNet approaches to diabetic retinopathy screening. | Python, Jupyter Notebook, quantum computing |
 | [SpringBoot-Learning](https://github.com/divyanshu12413005/SpringBoot-Learning-) | Spring Boot learning repo with REST APIs, MongoDB, JWT/security, OAuth2 login, RBAC, Redis, Docker, testing, and backend practice projects. | Java, Spring Boot |
 | [Java-Learning](https://github.com/divyanshu12413005/Java-Learning) | Java practice code from basics to OOP, strings, arrays, recursion, sorting, searching, linked lists, and stacks. | Java, DSA |
-| [Machine-Learning](https://github.com/divyanshu12413005/Machine-Learning) | Python machine learning practice and library learning. | Python, NumPy, Pandas, Matplotlib, Scikit-learn |
+| [Machine-Learning](https://github.com/divyanshu12413005/Machine-Learning) | Python practice in NumPy arrays, Pandas data analysis, and Matplotlib, Seaborn, and Plotly visualization. | Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly |
 | [Portfolio-Website](https://github.com/divyanshu12413005/Portfolio-Website) | Personal portfolio website showcasing skills, education, projects, and contact links. | React, HTML, CSS, JavaScript |
 | [Blog-App](https://github.com/divyanshu12413005/Blog-App) | Android blog app built with Kotlin. | Kotlin, Android |
 | [Weather-App](https://github.com/divyanshu12413005/Weather-App) | Android weather app showing real-time weather information. | Kotlin, Android |
@@ -99,7 +98,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Practicing Spring Security, JWT authentication, OAuth2, RBAC, Redis, Docker, testing, and MongoDB
 - Improving Android development skills with Kotlin
 - Learning Flutter for cross-platform app development
-- Completed my core Python Machine Learning libraries; now exploring quantum computing for diabetic retinopathy screening
+- Strengthening Python data analysis and visualization foundations; exploring quantum computing for diabetic retinopathy screening
 - Making my GitHub profile and project READMEs cleaner and more useful
 
 ---
