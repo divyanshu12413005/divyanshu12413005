@@ -62,7 +62,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Android apps with Kotlin, Android Studio, XML layouts, and Gradle
 - Exploring Flutter for cross-platform app development
 - Web development with HTML, CSS, JavaScript, React, and responsive UI
-- Python and Machine Learning foundations with completed NumPy and Pandas practice
+- Completed my Machine Learning library learning track, including NumPy and Pandas
 - Exploring quantum machine learning and diabetic retinopathy screening through QuantumNet
 - Clean GitHub repositories with better README files and project documentation
 
@@ -92,7 +92,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Practicing Spring Security, JWT authentication, OAuth2, RBAC, Redis, Docker, testing, and MongoDB
 - Improving Android development skills with Kotlin
 - Learning Flutter for cross-platform app development
-- Exploring Machine Learning with Python, NumPy, Pandas, and quantum computing for diabetic retinopathy screening
+- Completed my Machine Learning library learning track; now exploring quantum computing for diabetic retinopathy screening
 - Making my GitHub profile and project READMEs cleaner and more useful
 
 ---
