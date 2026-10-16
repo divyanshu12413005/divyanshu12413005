@@ -1,6 +1,6 @@
 # Hi, I'm Divyanshu Singh Chauhan
 
-B.Tech student at IIIT Sonepat, learning software development step by step through Java, C++, Spring Boot, Android, Python, machine learning, and web development projects.
+B.Tech student at IIIT Sonepat, building projects across Java, backend development, Python, machine learning, and web development. Recently, I started exploring quantum computing through a diabetic retinopathy screening project.
 
 I am currently focused on strengthening my fundamentals in data structures, object-oriented programming, backend development, REST APIs, authentication, databases, and practical project building.
 
@@ -38,17 +38,20 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Learning-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### Data Science Basics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Foundations-blue?style=flat)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-Exploring-6B46C1?style=flat)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -57,8 +60,10 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Java fundamentals, OOP, recursion, arrays, strings, sorting, binary search, linked lists, stacks, and problem solving
 - Spring Boot projects covering REST APIs, MongoDB, Spring Security, JWT, OAuth2, Redis, Docker, testing, and backend application structure
 - Android apps with Kotlin, Android Studio, XML layouts, and Gradle
+- Exploring Flutter for cross-platform app development
 - Web development with HTML, CSS, JavaScript, React, and responsive UI
 - Python and Machine Learning foundations with completed NumPy and Pandas practice
+- Exploring quantum machine learning and diabetic retinopathy screening through QuantumNet
 - Clean GitHub repositories with better README files and project documentation
 
 ---
@@ -67,6 +72,7 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [QuantumNet-DR-Screening](https://github.com/divyanshu12413005/quantumnet-dr-screening) | Exploring QuantumNet approaches to diabetic retinopathy screening. | Python, Jupyter Notebook, quantum computing |
 | [SpringBoot-Learning](https://github.com/divyanshu12413005/SpringBoot-Learning-) | Spring Boot learning repo with REST APIs, MongoDB, JWT/security, OAuth2 login, RBAC, Redis, Docker, testing, and backend practice projects. | Java, Spring Boot |
 | [Java-Learning](https://github.com/divyanshu12413005/Java-Learning) | Java practice code from basics to OOP, strings, arrays, recursion, sorting, searching, linked lists, and stacks. | Java, DSA |
 | [Machine-Learning](https://github.com/divyanshu12413005/Machine-Learning) | Python machine learning basics with completed NumPy and Pandas practice files. | Python, NumPy, Pandas |
@@ -85,7 +91,8 @@ I am currently focused on strengthening my fundamentals in data structures, obje
 - Learning backend development with Spring Boot, REST APIs, and production-style application structure
 - Practicing Spring Security, JWT authentication, OAuth2, RBAC, Redis, Docker, testing, and MongoDB
 - Improving Android development skills with Kotlin
-- Exploring Machine Learning foundations with Python, NumPy, and Pandas
+- Learning Flutter for cross-platform app development
+- Exploring Machine Learning with Python, NumPy, Pandas, and quantum computing for diabetic retinopathy screening
 - Making my GitHub profile and project READMEs cleaner and more useful
 
 ---
