@@ -1,120 +1,46 @@
-# Hi, I'm Divyanshu Singh Chauhan
+# Divyanshu Singh Chauhan
 
-B.Tech student at IIIT Sonepat, building projects across Java, backend development, Python, machine learning, and web development. Recently, I started exploring quantum computing through a diabetic retinopathy screening project.
+**Full-Stack and Mobile App Developer | UI Designer**  
+IIIT Sonepat · Sonepat, Haryana  
+[Email](mailto:divyanshusinghdsa12413005@iiitsonepat.ac.in) · +91 7355442326 · [GitHub](https://github.com/divyanshu12413005) · [LinkedIn](https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/) · [Portfolio](https://divyanshu12413005.github.io/Portfolio-Website/) · [Resume PDF](https://divyanshu12413005.github.io/Portfolio-Website/Divyanshu-Singh-Chauhan-Resume.pdf)
 
-I am currently focused on strengthening my fundamentals in data structures, object-oriented programming, backend development, REST APIs, authentication, databases, and practical project building.
+## Summary
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://divyanshu12413005.github.io/Portfolio-Website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/)
-[![GitHub](https://img.shields.io/badge/GitHub-divyanshu12413005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu12413005)
+B.Tech CSE (Data Science and Analytics) student with experience contributing to UI design and core development at a healthcare startup. Builds full-stack and mobile projects using Spring Boot, Flutter, Kotlin, React, PHP, and MySQL.
 
----
+## Education
 
-## Tech Stack
+**B.Tech, Computer Science and Engineering (Data Science and Analytics)**  
+Indian Institute of Information Technology, Sonepat · 2024–2028  
+CGPA: 8.06 / 10
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Class XII, CBSE** · Gyan Peethika School, Ballia · 2023 · 77.60%  
+**Class X, CBSE** · Green Lawns Public School, Ballia · 2021 · 91.40%
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Experience
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**UI Designer and Core Developer** · Vaididea Healthcare Pvt. Ltd., New Delhi  
+May 2026–Present
 
-### Android Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Learning-02569B?style=flat&logo=flutter&logoColor=white)
+- Contribute to UI design and core development for a connected healthcare platform with web portals and a patient mobile app.
+- Collaborate with a 25-member team on an integrated prototype spanning mobile, web, database design, and UI/UX.
 
-### Data Science Basics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Foundations-blue?style=flat)
-![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-Exploring-6B46C1?style=flat)
+## Skills
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+- **Languages:** Java, Python, Dart, Kotlin, JavaScript, PHP, C, C++
+- **Backend and databases:** Spring Boot, PHP REST APIs, Spring Security, JWT, OAuth2, MySQL, MongoDB, Redis
+- **Web and mobile:** React, Flutter, Android, HTML, CSS, Riverpod, Dio, UI/UX design
+- **Tools:** Docker, Git, GitHub Actions, IntelliJ IDEA, VS Code, Android Studio, Gradle, Jupyter
+- **Data:** NumPy, Pandas, Matplotlib
 
----
+## Selected Projects
 
-## What I'm Building And Learning
+- **[CampusFix](https://github.com/kajalrajput92/CampusFix)** — QR-enabled campus issue reporting and resolution platform with student, staff, and admin workflows, photo proof, ticket tracking, and feedback. Built with Flutter, React, PHP, and MySQL.
+- **[Spring Boot Backend Projects](https://github.com/divyanshu12413005/SpringBoot-Learning-)** — REST APIs with authentication, role-based access, MongoDB, Redis, and Docker.
+- **[Blog App](https://github.com/divyanshu12413005/Blog-App)** and **[Weather App](https://github.com/divyanshu12413005/Weather-App)** — Android applications built with Kotlin.
+- **[Portfolio Website](https://github.com/divyanshu12413005/Portfolio-Website)** — Personal portfolio built with React, HTML, CSS, and JavaScript.
 
-- Java fundamentals, OOP, recursion, arrays, strings, sorting, binary search, linked lists, stacks, and problem solving
-- Spring Boot projects covering REST APIs, MongoDB, Spring Security, JWT, OAuth2, Redis, Docker, testing, and backend application structure
-- Android apps with Kotlin, Android Studio, XML layouts, and Gradle
-- Exploring Flutter for cross-platform app development
-- Web development with HTML, CSS, JavaScript, React, and responsive UI
-- Completed foundational Python data analysis and visualization practice with NumPy, Pandas, Matplotlib, Seaborn, and Plotly
-- Practiced NumPy array creation, indexing, broadcasting, reshaping, statistics, and array operations
-- Practiced Pandas Series and DataFrames, filtering, grouping, joining, pivot tables, dates, and vectorized string operations
-- Built visualizations including bar, scatter, histogram, categorical, distribution, relational, matrix, and subplot charts
-- Exploring quantum machine learning and diabetic retinopathy screening through QuantumNet
-- Clean GitHub repositories with better README files and project documentation
+## Achievements
 
----
-
-## Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [QuantumNet-DR-Screening](https://github.com/divyanshu12413005/quantumnet-dr-screening) | Exploring QuantumNet approaches to diabetic retinopathy screening. | Python, Jupyter Notebook, quantum computing |
-| [SpringBoot-Learning](https://github.com/divyanshu12413005/SpringBoot-Learning-) | Spring Boot learning repo with REST APIs, MongoDB, JWT/security, OAuth2 login, RBAC, Redis, Docker, testing, and backend practice projects. | Java, Spring Boot |
-| [Java-Learning](https://github.com/divyanshu12413005/Java-Learning) | Java practice code from basics to OOP, strings, arrays, recursion, sorting, searching, linked lists, and stacks. | Java, DSA |
-| [Machine-Learning](https://github.com/divyanshu12413005/Machine-Learning) | Python practice in NumPy arrays, Pandas data analysis, and Matplotlib, Seaborn, and Plotly visualization. | Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly |
-| [Portfolio-Website](https://github.com/divyanshu12413005/Portfolio-Website) | Personal portfolio website showcasing skills, education, projects, and contact links. | React, HTML, CSS, JavaScript |
-| [Blog-App](https://github.com/divyanshu12413005/Blog-App) | Android blog app built with Kotlin. | Kotlin, Android |
-| [Weather-App](https://github.com/divyanshu12413005/Weather-App) | Android weather app showing real-time weather information. | Kotlin, Android |
-| [Web-Designing](https://github.com/divyanshu12413005/Web-Designing) | Semester web designing practice with HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
-| [C-Programming](https://github.com/divyanshu12413005/C-Programming) | C programming practice covering core concepts and problem solving. | C |
-| [Python](https://github.com/divyanshu12413005/Python) | Python practice from basics to loops, functions, modules, and data structures. | Python |
-
----
-
-## Current Focus
-
-- Building stronger DSA fundamentals in Java
-- Learning backend development with Spring Boot, REST APIs, and production-style application structure
-- Practicing Spring Security, JWT authentication, OAuth2, RBAC, Redis, Docker, testing, and MongoDB
-- Improving Android development skills with Kotlin
-- Learning Flutter for cross-platform app development
-- Strengthening Python data analysis and visualization foundations; exploring quantum computing for diabetic retinopathy screening
-- Making my GitHub profile and project READMEs cleaner and more useful
-
----
-
-## GitHub Stats
-
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu12413005&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu12413005&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu12413005&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Connect With Me
-
-- Portfolio: [divyanshu12413005.github.io/Portfolio-Website](https://divyanshu12413005.github.io/Portfolio-Website/)
-- LinkedIn: [Divyanshu Singh Chauhan](https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/)
-- GitHub: [divyanshu12413005](https://github.com/divyanshu12413005)
+- Presented the Vaididea prototype and a 75-day pilot plan at the Seva First Innovation Challenge 2026.
+- Participated in the HackXtreme hackathon by GGSIPU, Delhi, as part of Team X from IIIT Sonepat.
