@@ -8,7 +8,7 @@
   <a href="https://github.com/divyanshu12413005">GitHub</a> ·
   <a href="https://www.linkedin.com/in/divyanshu-singh-chauhan-390264307/">LinkedIn</a> ·
   <a href="https://divyanshu12413005.github.io/Portfolio-Website/">Portfolio</a> ·
-  <a href="https://divyanshu12413005.github.io/Portfolio-Website/Divyanshu-Singh-Chauhan-Resume.pdf">Resume</a>
+  <a href="https://raw.githubusercontent.com/divyanshu12413005/Portfolio-Website/main/public/Divyanshu-Singh-Chauhan-Resume.pdf">Resume</a>
 </p>
 
 <p align="center">
