@@ -2,6 +2,8 @@
 
 <p align="center"><strong>Full-Stack and Mobile App Developer | UI Designer</strong></p>
 
+<p align="center"><img src="https://img.shields.io/badge/Open%20to%20Internships-Summer%202027-168A72?style=for-the-badge" alt="Open to Internships · Summer 2027"></p>
+
 <p align="center">
   📍 IIIT Sonepat · Sonepat, Haryana<br>
   <a href="mailto:divyanshusinghdsa12413005@iiitsonepat.ac.in">Email</a> ·
